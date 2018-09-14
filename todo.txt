@@ -1,0 +1,27 @@
+Deadline:	- Presentation Week 9 Friday
+		- Code 1 day before
+
+Questions:	- Location for the University
+
+Information:
+	- Name: Van Oenen University
+	- Courses:
+		- Flight Training:
+			- Helicopter
+			- Biplane
+			- Space flight
+
+		- Hospitality Management Education:
+				- Hotel Management
+				- Cruise Management
+				- Gastromony
+				- Event Management
+
+Requirements:
+	- Own style
+	- Forms
+	- RSS Feed
+	- Photos
+	- External API
+	- Logical navigation
+	- Make it sexy for students
