@@ -50,3 +50,8 @@ Special:
 	- [Care package for students (email with info)]
 	- [Visiting the uni]
 	- [Meeting/Talk with coordinators] ??
+
+TODO:
+	- Design layout
+	- Logo
+	- Color Scheme
