@@ -1,10 +1,21 @@
-Deadline:	- Presentation Week 9 Friday
+Signs:
+	- ?? ask this at the next interview
+	- [] use form for this
+
+========================================
+
+Deadline:
+		- Presentation Week 9 Friday
 		- Code 1 day before
 
-Questions:	- Location for the University
+Goal:
+	- Attract more students
 
 Information:
+	- Age: 10 years, modern equipment
 	- Name: Van Oenen University
+	- Language: ??
+	- Location: ??
 	- Courses:
 		- Flight Training:
 			- Helicopter
@@ -25,3 +36,17 @@ Requirements:
 	- External API
 	- Logical navigation
 	- Make it sexy for students
+
+Logo:
+	- Initials or something that combines the 2 Courses
+
+Style:
+	- Primary color: Navy blue (#2020a0)
+	- Secondary colors: ??
+	- Languages:
+		- HTML/CSS (bootstrap)
+
+Special:
+	- [Care package for students (email with info)]
+	- [Visiting the uni]
+	- [Meeting/Talk with coordinators] ??
