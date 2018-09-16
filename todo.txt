@@ -42,7 +42,8 @@ Logo:
 
 Style:
 	- Primary color: Navy blue (#2020a0)
-	- Secondary colors: ??
+	- Secondary colors: Diarrhoea brown (#a06020) - complimentary ??
+	- Alternative primary colors: purple (#6020a0), cyan (#20a0a0) ??
 	- Languages:
 		- HTML/CSS (bootstrap)
 
