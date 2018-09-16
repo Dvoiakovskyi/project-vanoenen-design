@@ -47,9 +47,11 @@ Style:
 		- HTML/CSS (bootstrap)
 
 Special:
-	- [Care package for students (email with info)]
+	- [Care package for students (email with info)] ??
 	- [Visiting the uni]
 	- [Meeting/Talk with coordinators] ??
+	- [Support team/system for the site] ??
+	- [Hosting service and domain] ??
 
 TODO:
 	- Design layout
