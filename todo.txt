@@ -79,3 +79,4 @@ SITEMAP:
 		- Location
 	- Contact
 	- Privacy and Cookie Policy
+	- Test
