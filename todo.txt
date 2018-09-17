@@ -53,10 +53,9 @@ Special:
 	- [Meeting/Talk with coordinators] ??
 	- [Support team/system for the site] ??
 	- [Hosting service and domain] ??
-
 TODO:
-	- Design layout
-	- Logo
+	- ask gerjan for content
+	- layout for other sites
 	- Color Scheme
 	
 SITEMAP:
@@ -79,4 +78,3 @@ SITEMAP:
 		- Location
 	- Contact
 	- Privacy and Cookie Policy
-	- Test
