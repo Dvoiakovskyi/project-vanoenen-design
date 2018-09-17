@@ -58,3 +58,24 @@ TODO:
 	- Design layout
 	- Logo
 	- Color Scheme
+	
+SITEMAP:
+	- Home
+	- Courses
+		- Flight training
+			- Helicopter
+			- Biplane
+			- Space flight
+		- Hospitality management Education
+			- Hotel management
+			- Cruise management
+			- Gastronomy
+			- Event mangement
+		
+	- Application
+	- RSS Feed
+	- About Us
+		- University
+		- Location
+	- Contact
+	- Privacy and Cookie Policy
