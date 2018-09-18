@@ -9,13 +9,20 @@ Deadline:
 		- Code 1 day before
 
 Deadlines:
-	- Project Plan: Thursday, 20th Sep. 2018
-	- General HTML/CSS Structure and Design: Friday, 28th Sep. 2018
-	- BETWEEN: HTML/CSS Structure and Design for all the other Sites
-	- Content: 15th Oct. 2018
-	- Translation: 21st Oct. 2018
-	- Project: 26th Oct. 2018
-	- Presentation: 1st November 2018
+	- Project Plan: Thursday, 20th Sep
+	- General HTML/CSS Structure and Design (index.html): Wednesday, 26th Sep
+	- HTML/CSS Structure and Design for all the other Sites: Monday, 1st Oct
+		- courses.html - 
+		- flight.html - 
+		- hospitality.html - 
+		- application.html - 
+		- about.html - 
+		- policy.html - 
+		- feed.xml - anyone who has time for it.
+	- Content: 15th Oct
+	- Translation: 21st Oct
+	- Project: 26th Oct
+	- Presentation: 1st November
 
 Goal:
 	- Attract more students
@@ -73,25 +80,25 @@ TODO:
 	- layout for other sites
 	- Color Scheme
 SITEMAP:
-	- Home
-	- Courses
-		- Flight training
+	- Home (index.html)
+	- Courses (courses.html)
+		- Flight training (courses/flight.html)
 			- Helicopter
 			- Biplane
 			- Space flight
-		- Hospitality management Education
+		- Hospitality management Education (courses/hospitality.html)
 			- Hotel management
 			- Cruise management
 			- Gastronomy
 			- Event mangement
 		
-	- Application
-	- RSS Feed
-	- About Us
+	- Application (application.html)
+	- RSS Feed (feed.xml)
+	- About Us (about.html)
 		- University
 		- Location
-	- Contact
-	- Privacy and Cookie Policy
+		- Contact
+	- Privacy and Cookie Policy (policy.html)
 	
 Project Plan:
 	- Deadlines
