@@ -14,8 +14,8 @@ Goal:
 Information:
 	- Age: 10 years, modern equipment
 	- Name: Van Oenen University
-	- Language: ??
-	- Location: ??
+	- Language: English (maybe German translation)
+	- Location: Groningen
 	- Courses:
 		- Flight Training:
 			- Helicopter
@@ -23,10 +23,10 @@ Information:
 			- Space flight
 
 		- Hospitality Management Education:
-				- Hotel Management
-				- Cruise Management
-				- Gastromony
-				- Event Management
+			- Hotel Management
+			- Cruise Management
+			- Gastromony
+			- Event Management
 
 Requirements:
 	- Own style
@@ -48,11 +48,17 @@ Style:
 		- HTML/CSS (bootstrap)
 
 Special:
-	- [Care package for students (email with info)] ??
+	- [Care package for students (email with info)]
 	- [Visiting the uni]
 	- [Meeting/Talk with coordinators] ??
-	- [Support team/system for the site] ??
-	- [Hosting service and domain] ??
+	- Cost: 1499.99EUR
+	- Services:
+		- Support:
+			- 49.99EUR/month
+		- Hosting:
+			- 9.99EUR/month
+		- Combined:
+			- 54.99/month
 TODO:
 	- ask gerjan for content
 	- layout for other sites
