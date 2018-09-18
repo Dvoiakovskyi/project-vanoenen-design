@@ -84,13 +84,18 @@ SITEMAP:
 	- Contact
 	- Privacy and Cookie Policy
 	
+Project Plan:
+	- Deadlines
+	- Website Layout
+	- General information
+	- Pricing
 	
-	Deadlines:
-		- Project Plan: Thursday, 20th Sep. 2018
-		- General HTML/CSS Structure and Design: Friday, 28th Sep. 2018
-		- BETWEEN: HTML/CSS Structure and Design for all the other Sites
-		- Content: 15th Oct. 2018
-		- Translation: 21st Oct. 2018
-		- Project: 26th Oct. 2018
-		- Presentation: 1st November 2018
+Deadlines:
+	- Project Plan: Thursday, 20th Sep. 2018
+	- General HTML/CSS Structure and Design: Friday, 28th Sep. 2018
+	- BETWEEN: HTML/CSS Structure and Design for all the other Sites
+	- Content: 15th Oct. 2018
+	- Translation: 21st Oct. 2018
+	- Project: 26th Oct. 2018
+	- Presentation: 1st November 2018
 	
