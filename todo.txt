@@ -35,7 +35,7 @@ Requirements:
 	- Photos
 	- External API
 	- Logical navigation
-	- Make it sexy for students
+	- Make it sexy for students.
 
 Logo:
 	- Initials or something that combines the 2 Courses
