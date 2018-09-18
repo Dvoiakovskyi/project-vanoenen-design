@@ -79,26 +79,26 @@ TODO:
 	- ask gerjan for content
 	- layout for other sites
 	- Color Scheme
-SITEMAP:
-	- Home (index.html)
-	- Courses (courses.html)
-		- Flight training (courses/flight.html)
-			- Helicopter
-			- Biplane
-			- Space flight
-		- Hospitality management Education (courses/hospitality.html)
-			- Hotel management
-			- Cruise management
-			- Gastronomy
-			- Event mangement
+SITEMAP (DEADLINES ARE STILL NOT CONFIRMED OR FUTHERLY DISCUSSED)
+	- Home (index.html) - 23th/25th September
+	- Courses (courses.html) - 27th September
+		- Flight training (courses/flight.html) - 29th September
+			- Helicopter (29th September)
+			- Biplane (29th September)
+			- Space flight (29th September)
+		- Hospitality management Education (courses/hospitality.html) - 30th September
+			- Hotel management (30th September)
+			- Cruise management (30th September)
+			- Gastronomy (30th September)
+			- Event mangement (30th September)
 		
-	- Application (application.html)
-	- RSS Feed (feed.xml)
-	- About Us (about.html)
-		- University
-		- Location
-		- Contact
-	- Privacy and Cookie Policy (policy.html)
+	- Application (application.html) - 2nd October
+	- RSS Feed (feed.xml) - 5th October
+	- About Us (about.html) - 6th/7th October
+		- University (6th/7th October)
+		- Location (6th/7th October)
+		- Contact (6th/7th October)
+	- Privacy and Cookie Policy (policy.html) - 9th October
 	
 Project Plan:
 	- Deadlines
