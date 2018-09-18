@@ -63,7 +63,6 @@ TODO:
 	- ask gerjan for content
 	- layout for other sites
 	- Color Scheme
-	mi4#TL9!054v0HH!mi4#TL9!054v0HH!
 SITEMAP:
 	- Home
 	- Courses
