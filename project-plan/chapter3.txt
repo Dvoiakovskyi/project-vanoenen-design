@@ -1,0 +1,65 @@
+This chapter contains the required tasks for the project.
+
+Planning
+
+Team organization:
+  - Setting up roles
+  - Writing the Code of Conduct
+Meeting:
+  - Preparation:
+    - Preparing questions
+    - Making an appointment with the client
+    - Sending reserved room, and questions to client
+  - Meeting:
+    - Asking questions
+    - Taking notes
+    - Discussing meeting with the team
+Creating project plan:
+  - Draft:
+    - Checking the checklist, requirements for the project plan
+    - Split the work between team members
+    - Discuss the draft with the client
+  - Final:
+    - Making changes to the project plan according to the client's requirements
+    - Handing in the final project plan
+
+Development
+
+Preparation:
+  - Making sure the team has the required resources for the work:
+    - IDE/Text editor
+    - Graphics software
+    - Version Control
+  - Creating plan for the development:
+    - Splitting up the work between team members
+    - Creating a workflow
+    - Setting deadlines
+Design:
+  - Creating concepts for layout and logo
+  - Discuss concepts with client
+  - Modify concepts according to the client's requirements
+  - Handing in final concepts
+
+Coding:
+  - Weekly appointments with client to share progress
+  - Creating the first iteration of the website
+  - Testing all the parts of the website
+  - Fixing the bugs
+
+Completion
+
+Preparation:
+  - Final check:
+    - Present the complete website to the client
+    - Make adjustments to fit the client's requirements
+    - Run the final tests for the website
+  - Presentation:
+    - Elect a presenter/presenter team
+    - Chose type of presentation
+    - Create the presentation
+Presentation:
+  - Present the website
+  - Answer questions about the website
+Finalization:
+  - Discussing project with the team
+  - Writing evaluation
